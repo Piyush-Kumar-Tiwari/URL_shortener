@@ -1,0 +1,23 @@
+{
+  "name": "url-shorterner",
+  "version": "1.0.0",
+  "description": "A simple URL shortener built with Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.0.0",
+    "mongodb": "^6.20.0"
+  }
+}
